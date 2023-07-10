@@ -2,7 +2,11 @@
 
 ### 10th July 2023
 
-- Learnt about pandas and its main 2 datatypes: Series and Frames
+#### Pigeon Hole principle and its applications
+- if there are n objects to fitted in m categories or places, there exist atleast one category which has multiple objects in it.
+
+#### Explored `Pandas`
+- Learnt about pandas and its main 2 datatypes: `Series` and `Frames`
 - used some functions like `pd.read_csv` and `framename.to_csv('destination')`
 - Various data describing functions such as `dtypes`, `columns`,`describe()`,`mean()`....etc
 
