@@ -1,8 +1,8 @@
 # My Daily Log
 
-> ### 10th July 2023
-> - Learnt about pandas and its main 2 datatypes: Series and Frames
-> - used some functions like `pd.read_csv` and `framename.to_csv('destination')`
+### 10th July 2023
+- Learnt about pandas and its main 2 datatypes: Series and Frames
+- used some functions like `pd.read_csv` and `framename.to_csv('destination')`
 
 
 ### 16th May 2023
