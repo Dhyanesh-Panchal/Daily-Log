@@ -10,6 +10,8 @@
 - used some functions like `pd.read_csv` and `framename.to_csv('destination')`
 - Various data describing functions such as `dtypes`, `columns`,`describe()`,`mean()`....etc
 
+<hr/>
+
 ### 16th May 2023
 
 - > exploring PyAudio, speechrecognizer library of python.
@@ -19,6 +21,9 @@
     >
 - Learned about ``Python Tracebacks``: [Source](https://realpython.com/python-traceback/)
 
+
+<hr/>
+
 ### 10th May 2023
 
 ### to
@@ -26,6 +31,10 @@
 ### 15th May 2023
 >
 > Busy with Assignments and exam so unable to code much
+
+
+<hr/>
+
 
 ### 09 May 2023
 >
