@@ -3,5 +3,6 @@
 
 - Modern CPUs provide direct support for vector operations where a single instruction is applied to multiple data (SIMD).
 
-- #### Article by Quantify: [here](https://www.quantifisolutions.com/vectorization-part-2-why-and-what/#:~:text=Vectorization%20is%20the%20process%20of,to%20multiple%20data%20(SIMD).)s
+- #### Article by Quantify: [here](https://www.quantifisolutions.com/vectorization-part-2-why-and-what/#:~:text=Vectorization%20is%20the%20process%20of,to%20multiple%20data%20(SIMD).)
+- #### Video: [Vectorization using numpy](https://youtu.be/qsIrQi0fzbY)
 
