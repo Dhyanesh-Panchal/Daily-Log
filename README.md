@@ -1,5 +1,12 @@
 # My Daily Log
 
+### 27th July 2023
+#### GraphQL vs REST
+- Found a good video source: https://youtu.be/PTfZcN20fro
+
+
+<hr/>
+
 ### 10th July 2023
 
 #### Pigeon Hole principle and its applications

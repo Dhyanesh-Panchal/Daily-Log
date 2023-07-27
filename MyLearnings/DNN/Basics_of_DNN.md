@@ -7,3 +7,5 @@
 
 - It was later shown that the technology was only *linearly separable*, in other words, the perceptron was only able to work with linear separation of data points.
 - **Source Artical:** [Here](https://towardsdatascience.com/what-is-a-perceptron-basics-of-neural-networks-c4cfea20c590)
+
+- **Little Demo on linear classification:** https://dhyanesh-panchal.github.io/perceptron-demonstartion.github.io/
