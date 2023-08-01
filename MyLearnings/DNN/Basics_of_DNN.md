@@ -10,3 +10,5 @@
 
 - **Little Demo on linear classification:** https://dhyanesh-panchal.github.io/perceptron-demonstartion.github.io/
 - Little Discussion on XOR and the function of seprability : [HERE](https://stackoverflow.com/questions/9600888/single-perceptron-non-linear-evaluating-function)
+    - arguably `| sum(weights) + bias | < c` where c is constant (probably < 1 if we consider 1 as true and 0 as false and plot XOR). fits the XOR.
+    ![Graph](./Sources/mod_func_as%20_activation.jpg)
