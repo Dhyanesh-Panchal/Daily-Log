@@ -1,5 +1,17 @@
 # My Daily Log
 
+### 29th July 2023
+#### Started learning FastAPI
+- **Source** - https://fastapi.tiangolo.com/tutorial/first-steps/
+#### Python venv
+- **Source** - https://docs.python.org/3/library/venv.html
+- **How venv works** - 
+  - When a Python interpreter is running from a virtual environment, `sys.prefix` and `sys.exec_prefix` point to the directories of the virtual environment, whereas `sys.base_prefix` and `sys.base_exec_prefix` point to those of the base Python used to create the environment.
+  - It is sufficient to check `sys.prefix` != `sys.base_prefix` to determine if the current interpreter is running from a virtual environment
+
+
+<hr/>
+
 ### 27th July 2023
 #### GraphQL vs REST
 - Found a good video source: https://youtu.be/PTfZcN20fro
